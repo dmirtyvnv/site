@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="671e5c47-da98-480d-808c-87a9fdb8b4ae" name="Default Changelist" comment="1234">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-karkas.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="2ODddeYVtSzeTetl9gi8smMsbHV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CoffeeScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img" />
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img\etap_work" />
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img\d9" />
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img\d8" />
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img\d7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\img" />
+      <recent name="C:\Users\Dmitry\Desktop\flutter\2\Dionis\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dionis" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Dionis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671e5c47-da98-480d-808c-87a9fdb8b4ae" name="Default Changelist" comment="" />
+      <created>1681099174415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681099174415</updated>
+      <workItem from="1681099175498" duration="2635000" />
+      <workItem from="1681603626379" duration="908000" />
+      <workItem from="1681604567848" duration="1512000" />
+      <workItem from="1681610742040" duration="12006000" />
+      <workItem from="1681713435937" duration="1704000" />
+      <workItem from="1681716569189" duration="7000000" />
+      <workItem from="1681966384235" duration="3231000" />
+      <workItem from="1682309454991" duration="1562000" />
+      <workItem from="1682397971728" duration="22430000" />
+      <workItem from="1682914446102" duration="29603000" />
+      <workItem from="1683167803534" duration="4000" />
+      <workItem from="1683167844904" duration="24628000" />
+      <workItem from="1683690288830" duration="3345000" />
+      <workItem from="1684124632834" duration="2364000" />
+      <workItem from="1684311861889" duration="2633000" />
+      <workItem from="1684402771217" duration="25519000" />
+      <workItem from="1685073061685" duration="1217000" />
+      <workItem from="1685075567803" duration="3258000" />
+      <workItem from="1685081818640" duration="11732000" />
+      <workItem from="1685936700744" duration="611000" />
+      <workItem from="1685943410114" duration="9098000" />
+      <workItem from="1686325598517" duration="857000" />
+      <workItem from="1686794474210" duration="6357000" />
+      <workItem from="1686819800506" duration="1822000" />
+      <workItem from="1687317411266" duration="3837000" />
+    </task>
+    <task id="LOCAL-00001" summary="1234">
+      <created>1686820285649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686820285649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1234" />
+    <option name="LAST_COMMIT_MESSAGE" value="1234" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2312" y="307" key="#Deployment" timestamp="1687322892213">
+      <screen x="1920" y="182" width="1440" height="860" />
+    </state>
+    <state x="523" y="151" key="#Deployment/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1687322318551" />
+    <state x="2312" y="307" key="#Deployment/1920.182.1440.860/0.0.1920.1040@1920.182.1440.860" timestamp="1687322892213" />
+    <state x="586" y="198" key="#Inspections" timestamp="1684471976000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1684471976000" />
+    <state x="637" y="201" key="#Options" timestamp="1687322244932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="201" key="#Options/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1687322244932" />
+    <state x="573" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1681103769707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1681103769707" />
+    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1683254469256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1683254469256" />
+    <state x="826" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1684474567183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1684474567183" />
+    <state x="2475" y="409" key="FileChooserDialogImpl" timestamp="1686810612006">
+      <screen x="1920" y="182" width="1440" height="860" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1686796630746" />
+    <state x="2475" y="409" key="FileChooserDialogImpl/1920.182.1440.860/0.0.1920.1040@1920.182.1440.860" timestamp="1686810612006" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1686820883199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1686820883199" />
+    <state x="757" y="222" key="RollbackChangesDialog" timestamp="1685077406196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="222" key="RollbackChangesDialog/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1685077406196" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1681103755509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1681103755509" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1682916807985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1682916807985" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1686821718501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1686821718501" />
+    <state x="2751" y="432" key="ftp.server.browser" timestamp="1687322886141">
+      <screen x="1920" y="182" width="1440" height="860" />
+    </state>
+    <state x="1108" y="302" key="ftp.server.browser/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1681610830331" />
+    <state x="2751" y="432" key="ftp.server.browser/1920.182.1440.860/0.0.1920.1040@1920.182.1440.860" timestamp="1687322886141" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1686797868832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1686797868832" />
+    <state x="775" y="256" key="run.anything.popup" timestamp="1683167956321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="256" key="run.anything.popup/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1683167956321" />
+    <state x="660" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1686797810210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="217" width="672" height="678" key="search.everywhere.popup/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1686797810210" />
+    <state x="2415" y="361" width="672" height="561" key="search.everywhere.popup/1920.182.1440.860/0.0.1920.1040@1920.182.1440.860" timestamp="1685487360359" />
+  </component>
+</project>

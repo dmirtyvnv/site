@@ -1,0 +1,36 @@
+
+.gallery{
+    display: flex;
+}
+
+.gallery img {
+
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.modalgalery {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.modal-content {
+    max-width: 90%;
+    max-height: 90%;
+    margin: auto;
+    position: relative;
+}
+
+.modal-content img {
+    width: 10%;
+    height: 10%;
+    object-fit: contain;
+}
